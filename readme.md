@@ -20,3 +20,11 @@ Microservices: Principais características
 - Descentralização no gerenciamento de dados 
 - Automação de infraestrutura
 - Design evolutivo
+
+Dificuldades
+- Arquitetura complexa
+- Pode reprsentar alto custo
+- Necessidade de diversas equipes para manter
+- Sistema precisa ser grande o suficiente para justificar
+- Gera problemas que normalmente não existia antes
+- Monitoramento
